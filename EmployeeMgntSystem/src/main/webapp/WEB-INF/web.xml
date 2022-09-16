@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>EmployeeMgntSystem</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    
+    
+    
+    <welcome-file>About.jsp</welcome-file>
+    <welcome-file>Admin.jsp</welcome-file>
+    <welcome-file>AdminCode.jsp</welcome-file>
+    <welcome-file>AdminHome.jsp</welcome-file>
+    <welcome-file>Contact.jsp</welcome-file>
+    <welcome-file>Delete.jsp</welcome-file>
+    <welcome-file>DeleteCode.jsp</welcome-file>
+    <welcome-file>Deleted.jsp</welcome-file>
+    <welcome-file>DeletedCode.jsp</welcome-file>
+    <welcome-file>Home.jsp</welcome-file>
+    <welcome-file>Login.jsp</welcome-file>
+    <welcome-file>LoginCode.jsp</welcome-file>
+    <welcome-file>Register.jsp</welcome-file>
+    <welcome-file>RegisterCode.jsp</welcome-file>
+    <welcome-file>Select.jsp</welcome-file>
+    <welcome-file>SelectCode.jsp</welcome-file>
+    <welcome-file>Update.jsp</welcome-file>
+    <welcome-file>UpdateCode.jsp</welcome-file>
+    <welcome-file>UserHome.jsp</welcome-file>
+    <welcome-file>ViewAllEmpCode.jsp</welcome-file>
+    <welcome-file>Wrong.jsp</welcome-file>
+    
+    
+    
+    
+    
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+  </welcome-file-list>
+</web-app>
